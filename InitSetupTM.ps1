@@ -38,17 +38,17 @@ $G_DeployFilesPath = Join-Path $G_RootPath "\DeployFiles"
 $G_LogPath = Join-Path $G_RootPath "\Log"
 
 # インストールリポジトリー
-$G_InitInstallRepository = "git@bitbucket.org:gloops-system/checkeventlog_install.git"
+$G_InitInstallRepository = "git@github.com:SyuichiMurashima/checkeventlog_install.git"
 
 # ファイルサーバー
-if( Test-Path "\\172.27.100.103\Shares" ){
-	$FileServer = "\\172.27.100.103"
+if( Test-Path "\\172.24.3.72\Shares" ){
+	$FileServer = "\\172.24.3.72"
 }
-elseif(Test-Path "\\gfs.jp.gloops.com\Shares"){
-	$FileServer = "\\gfs.jp.gloops.com"
+elseif(Test-Path "\\d03713-fsa.common.gloops.local\Shares"){
+	$FileServer = "\\d03713-fsa.common.gloops.local"
 }
 else{
-	$FileServer = "\\gfs"
+	$FileServer = "\\d03713-fsa"
 }
 
 $SourceScriptDir = "\Shares\03-1_インフラ\20_サーバ関係\10_コンテンツ用サーバ\InflaAgentKit"
@@ -169,7 +169,7 @@ else{
 #--------------------
 Log "[INFO] Git for Windows インストール"
 
-$GitCommand = "C:\Program Files (x86)\Git\bin\git.exe"
+$GitCommand = "C:\Program Files\Git\bin\git.exe"
 if( test-path $GitCommand ){
 	Log "[INFO] Git for Windows インストール 済み"
 }
@@ -229,7 +229,7 @@ else{
 
 Log "[INFO] 環境変数登録"
 $env:home = $G_RootPath
-$env:path += ";C:\Program Files (x86)\Git\bin"
+$env:path += ";C:\Program Files\Git\bin"
 
 #---------------------
 Log "[INFO] インストーラー pull"
