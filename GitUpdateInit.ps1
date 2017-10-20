@@ -1,13 +1,13 @@
 ﻿################################################################
 #
 # Git 最新版へ更新するためのTM 初期セットアップ
-# (便宜上 bitbucket.org に上げているが、事前に pull したものを実行)
+# (便宜上 github に上げているが、事前に pull したものを実行)
 #
 #
 ################################################################
 #
 # InflaAgentKitが以下に配置されている前提
-# \\gfs\Shares\03-1_インフラ\20_サーバ関係\10_コンテンツ用サーバ\InflaAgentKit
+# \\d03713-fsa.common.gloops.local\Shares\03-1_インフラ\20_サーバ関係\10_コンテンツ用サーバ\InflaAgentKit
 #
 ################################################################
 
@@ -23,14 +23,14 @@ $G_DeployFilesPath = Join-Path $G_RootPath "\DeployFiles"
 $G_LogPath = Join-Path $G_RootPath "\Log"
 
 # ファイルサーバー
-if( Test-Path "\\172.27.100.103\Shares" ){
-	$FileServer = "\\172.27.100.103"
+if( Test-Path "\\172.24.3.72\Shares" ){
+	$FileServer = "\\172.24.3.72"
 }
-elseif(Test-Path "\\gfs.jp.gloops.com\Shares"){
-	$FileServer = "\\gfs.jp.gloops.com"
+elseif(Test-Path "\\d03713-fsa.common.gloops.local\Shares"){
+	$FileServer = "\\d03713-fsa.common.gloops.local"
 }
 else{
-	$FileServer = "\\gfs"
+	$FileServer = "\\d03713-fsa.common.gloops.local"
 }
 
 $SourceScriptDir = "\Shares\03-1_インフラ\20_サーバ関係\10_コンテンツ用サーバ\InflaAgentKit"

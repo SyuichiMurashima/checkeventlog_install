@@ -111,7 +111,7 @@ if( $TergetDrive -eq $Null ){
 
 <# ------ Git チェックしない ------
 
-$GitCommand = "C:\Program Files (x86)\Git\bin\git.exe"
+$GitCommand = "C:\Program Files\Git\bin\git.exe"
 if( test-path $GitCommand ){
 	Log "[INFO] Git for Windows インストール 済み"
 }
@@ -122,7 +122,7 @@ else{
 
 Log "[INFO] 環境変数登録"
 $env:home = $G_RootPath
-$env:path += ";C:\Program Files (x86)\Git\bin"
+$env:path += ";C:\Program Files\Git\bin"
 
 #---------------------
 Log "[INFO] プロジェクトスクリプト pull"

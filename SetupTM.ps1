@@ -28,7 +28,7 @@ $G_DeployFilesPath = Join-Path $G_RootPath "\DeployFiles"
 $G_LogPath = Join-Path $G_RootPath "\Log"
 
 # File Server
-$FileServer = "\\172.27.100.103"
+$FileServer = "\\172.24.3.72"
 
 # File Server アクセス アカウント
 $FileServerAccessAccunt = "jp\ApLogManager"
@@ -156,9 +156,9 @@ if (-not(([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdent
 
 Log "[INFO] 環境変数登録"
 $env:home = $G_RootPath
-$env:path += ";C:\Program Files (x86)\Git\bin"
+$env:path += ";C:\Program Files\Git\bin"
 
-$GitCommand = "C:\Program Files (x86)\Git\bin\git.exe"
+$GitCommand = "C:\Program Files\Git\bin\git.exe"
 if( test-path $GitCommand ){
 	Log "[INFO] Git for Windows インストール OK"
 }
@@ -182,7 +182,7 @@ if(-not( test-path $GitInitedChk )){
 	git init
 }
 
-git pull "git@bitbucket.org:gloops-system/checkeventlog_core.git"
+git pull "git@github.com:SyuichiMurashima/checkeventlog_core.git"
 
 if( $LastExitCode -eq 0 ){
 	Log "[INFO] 共通スクリプト pull 成功"

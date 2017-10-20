@@ -140,7 +140,7 @@ DisableNBT
 
 Log "[INFO] 環境変数登録"
 $env:home = $G_RootPath
-$env:path += ";C:\Program Files (x86)\Git\bin"
+$env:path += ";C:\Program Files\Git\bin"
 
 # プロジェクト情報最新へ更新
 Log "[INFO] プロジェクトスクリプト pull"

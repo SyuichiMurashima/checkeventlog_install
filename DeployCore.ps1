@@ -129,7 +129,7 @@ if( ($ProjectRepository -eq $Null) -or ($TergetDrive -eq $Null) ){
 
 Log "[INFO] Git for Windows インストール"
 
-$GitCommand = "C:\Program Files (x86)\Git\bin\git.exe"
+$GitCommand = "C:\Program Files\Git\bin\git.exe"
 if( test-path $GitCommand ){
 	Log "[INFO] Git for Windows インストール 済み"
 }
@@ -159,7 +159,7 @@ else{
 
 Log "[INFO] 環境変数登録"
 $env:home = $G_RootPath
-$env:path += ";C:\Program Files (x86)\Git\bin"
+$env:path += ";C:\Program Files\Git\bin"
 
 
 #---------------------
@@ -176,7 +176,7 @@ cd $G_CommonPath
 git init
 Log "[INFO] 共通スクリプト init"
 
-git pull "git@bitbucket.org:gloops-system/checkeventlog_core.git"
+git pull "git@github.com:SyuichiMurashima/checkeventlog_core.git"
 if( $LastExitCode -eq 0 ){
 	Log "[INFO] 共通スクリプト pull 成功"
 }
