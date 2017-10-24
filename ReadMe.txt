@@ -165,8 +165,10 @@
 			DeployCore.ps1 : 展開スクリプト(Invoke-Commandされる側)
 			StopSchdule.ps1 : 全台イベントログ監視停止
 			StopCore.ps1 : 全台イベントログ監視停止(Invoke-Commandされる側)
-			StartSchdule.ps1 : 全台イベントログ監視再開スクリプト
+			StartSchdule.ps1 : 全台イベントログ監視再開
 			StartCore.ps1 : 全台イベントログ監視再開スクリプト(Invoke-Commandされる側)
+			Remove.ps1 : 全台イベントログ削除
+			RemoveCore.ps1 : 全台イベントログ削除(Invoke-Commandされる側)
 
 		DeployFiles : 展開用ファイル
 			Git-1.9.4-preview20140929.exe : Git for Windows インストーラー

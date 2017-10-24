@@ -531,37 +531,7 @@ foreach( $Node in $Nodes ){
 	else{
 		# TM が展開対象の時
 		if( $TMCredential -ne $null ){
-			Log "[INFO] ローカルへ削除開始"
-
-			$InstallRoot = $G_RootPath
-
-			if(-not(Test-Path $InstallRoot)){
-				Log "[INFO] $InstallRoot 作成"
-				md $InstallRoot
-			}
-
-			# Git For Windows インストーラ配布
-			$CopyFile = Join-Path $G_DeployFiles "\git-*"
-			$RemoveFile = Join-Path $InstallRoot "\git-*"
-
-			if( test-path $CopyFile ){
-				Log "[INFO] Remove File : $RemoveFile"
-				del $RemoveFile
-				Log "[INFO] CopyFile : $CopyFile"
-				copy $CopyFile $InstallRoot -Force
-			}
-			else{
-				Log "[FAIL] $CopyFile not found!!"
-				exit
-			}
-
-			$SubmitScript = Join-Path $G_InstallerPath "RemoveCore.ps1"
-
-			$TergetServer = "127.0.0.1"
-
-			$TergetDriveLetter = "E"
-
-			$SubmitJob = Invoke-Command $TergetServer -FilePath $SubmitScript -ArgumentList $C_ProjectRepository, $TergetDriveLetter, $TergetServer -AsJob
+			Log "[INFO] ローカルは何もしない"
 		}
 	}
 
