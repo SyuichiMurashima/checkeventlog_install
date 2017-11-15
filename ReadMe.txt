@@ -1,88 +1,88 @@
-ƒCƒxƒ“ƒgƒƒOƒ`ƒFƒbƒN
+ï»¿ã‚¤ãƒ™ãƒ³ãƒˆãƒ­ã‚°ãƒã‚§ãƒƒã‚¯
 
-ŠT—v
-	ˆÈ‰ºƒŠƒ|ƒWƒgƒŠ[‚ªƒCƒxƒ“ƒgƒƒOƒ`ƒFƒbƒN‚Ìƒƒ“ƒo[‚Å‚·
+æ¦‚è¦
+	ä»¥ä¸‹ãƒªãƒã‚¸ãƒˆãƒªãƒ¼ãŒã‚¤ãƒ™ãƒ³ãƒˆãƒ­ã‚°ãƒã‚§ãƒƒã‚¯ã®ãƒ¡ãƒ³ãƒãƒ¼ã§ã™
 
-		ƒRƒA(ƒvƒƒWƒFƒNƒg‹¤’Ê)
+		ã‚³ã‚¢(ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆå…±é€š)
 			CheckEventLog_Core
 
-		ƒvƒƒWƒFƒNƒgˆË‘¶•”ƒeƒ“ƒvƒŒ[ƒg
+		ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆä¾å­˜éƒ¨ãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆ
 			CheckEventLog_Project
 
-		ƒCƒ“ƒXƒg[ƒ‰[
+		ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ©ãƒ¼
 			CheckEventLog_Install
 
-		ŠeƒvƒƒWƒFƒNƒg“WŠJ—p
-			CheckEventLog_ƒvƒƒWƒFƒNƒg–¼
+		å„ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆå±•é–‹ç”¨
+			CheckEventLog_ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆå
 
-	ƒŠƒ|ƒWƒgƒŠ[‚É‚ÍˆÈ‰º ACL ‚ðŠ„‚è“–‚Ä‚Ä‚¢‚Ü‚·
-		ƒCƒ“ƒtƒ‰ : XV‰Â
-		ŽÀsƒAƒJƒEƒ“ƒg : “Ç‚ÝŽæ‚èê—p
+	ãƒªãƒã‚¸ãƒˆãƒªãƒ¼ã«ã¯ä»¥ä¸‹ ACL ã‚’å‰²ã‚Šå½“ã¦ã¦ã„ã¾ã™
+		ã‚¤ãƒ³ãƒ•ãƒ© : æ›´æ–°å¯
+		å®Ÿè¡Œã‚¢ã‚«ã‚¦ãƒ³ãƒˆ : èª­ã¿å–ã‚Šå°‚ç”¨
 
-		ŽÀsƒAƒJƒEƒ“ƒg‚ÍAƒCƒ“ƒg[ƒ‹/Ž©“®XVŽž‚ÉƒŠƒ|ƒWƒgƒŠ pull ‚·‚éÛ‚ÉŽg—p‚·‚éƒAƒJƒEƒ“ƒg‚Å‚·B
-		Œ®ƒyƒA‚Íì¬Ï‚Ý‚Å‚·(ƒXƒNƒŠƒvƒg‚»‚Ì‚à‚Ì‚ÌƒZƒLƒ…ƒŠƒeƒBƒŒƒxƒ‹‚Í’á‚¢‚Ì‚Åƒmƒ“ƒpƒXƒ[ƒh‚É‚È‚Á‚Ä‚¢‚Ü‚·)
+		å®Ÿè¡Œã‚¢ã‚«ã‚¦ãƒ³ãƒˆã¯ã€ã‚¤ãƒ³ãƒˆãƒ¼ãƒ«/è‡ªå‹•æ›´æ–°æ™‚ã«ãƒªãƒã‚¸ãƒˆãƒª pull ã™ã‚‹éš›ã«ä½¿ç”¨ã™ã‚‹ã‚¢ã‚«ã‚¦ãƒ³ãƒˆã§ã™ã€‚
+		éµãƒšã‚¢ã¯ä½œæˆæ¸ˆã¿ã§ã™(ã‚¹ã‚¯ãƒªãƒ—ãƒˆãã®ã‚‚ã®ã®ã‚»ã‚­ãƒ¥ãƒªãƒ†ã‚£ãƒ¬ãƒ™ãƒ«ã¯ä½Žã„ã®ã§ãƒŽãƒ³ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ã«ãªã£ã¦ã„ã¾ã™)
 
 
-]—ˆ‚©‚ç‚ ‚é‹@”\
-	ƒCƒxƒ“ƒgƒƒO‚ÉƒGƒ‰[‚ðŒŸo‚µ‚½‚çŽw’èƒƒAƒh‚Éƒ[ƒ‹”ò‚Î‚·(10•ª–ˆ)
-	–³Ž‹‚·‚éƒGƒ‰[Ý’è
-	ŽÀsƒƒO‹L˜^
-	ŒÃ‚¢ŽÀsƒƒOíœ(1“ú1‰ñ)
-	“WŠJ(”ÏŽG)
+å¾“æ¥ã‹ã‚‰ã‚ã‚‹æ©Ÿèƒ½
+	ã‚¤ãƒ™ãƒ³ãƒˆãƒ­ã‚°ã«ã‚¨ãƒ©ãƒ¼ã‚’æ¤œå‡ºã—ãŸã‚‰æŒ‡å®šãƒ¡ã‚¢ãƒ‰ã«ãƒ¡ãƒ¼ãƒ«é£›ã°ã™(10åˆ†æ¯Ž)
+	ç„¡è¦–ã™ã‚‹ã‚¨ãƒ©ãƒ¼è¨­å®š
+	å®Ÿè¡Œãƒ­ã‚°è¨˜éŒ²
+	å¤ã„å®Ÿè¡Œãƒ­ã‚°å‰Šé™¤(1æ—¥1å›ž)
+	å±•é–‹(ç…©é›‘)
 
-V‹@”\
-	î•ñAŒx‚ÉŽw’èƒCƒxƒ“ƒg‚ªŒŸo‚³‚ê‚½‚çŽw’èƒƒAƒh‚Éƒ[ƒ‹”ò‚Î‚·
-	ƒXƒNƒŠƒvƒg‚ÌbitbucketŠÇ—
-	ƒvƒƒWƒFƒNƒg•ÊÝ’è‚ÌbitbucketŠÇ—
-	“WŠJ(‘å•ŠÈ•Ö‰»)
-		ŒöŠJŒ®•ûŽ®‚ÌƒpƒXƒ[ƒhŠÇ—
-	ƒXƒNƒŠƒvƒgŽ©“®XV(1“ú1‰ñ)
-	ƒvƒƒWƒFƒNƒg•ÊŠÇ—‹@”\
-		ŒŸoƒCƒxƒ“ƒg
-			Œx
-			î•ñ
-		ˆ¶æŽw’è
-			ƒGƒ‰[Žž
-			ŒxŽž
-			î•ñŽž
+æ–°æ©Ÿèƒ½
+	æƒ…å ±ã€è­¦å‘Šã«æŒ‡å®šã‚¤ãƒ™ãƒ³ãƒˆãŒæ¤œå‡ºã•ã‚ŒãŸã‚‰æŒ‡å®šãƒ¡ã‚¢ãƒ‰ã«ãƒ¡ãƒ¼ãƒ«é£›ã°ã™
+	ã‚¹ã‚¯ãƒªãƒ—ãƒˆã®bitbucketç®¡ç†
+	ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆåˆ¥è¨­å®šã®bitbucketç®¡ç†
+	å±•é–‹(å¤§å¹…ç°¡ä¾¿åŒ–)
+		å…¬é–‹éµæ–¹å¼ã®ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ç®¡ç†
+	ã‚¹ã‚¯ãƒªãƒ—ãƒˆè‡ªå‹•æ›´æ–°(1æ—¥1å›ž)
+	ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆåˆ¥ç®¡ç†æ©Ÿèƒ½
+		æ¤œå‡ºã‚¤ãƒ™ãƒ³ãƒˆ
+			è­¦å‘Š
+			æƒ…å ±
+		å®›å…ˆæŒ‡å®š
+			ã‚¨ãƒ©ãƒ¼æ™‚
+			è­¦å‘Šæ™‚
+			æƒ…å ±æ™‚
 
-“WŠJŽè‡
-	ƒvƒƒWƒFƒNƒg•ÊƒŠƒ|ƒWƒgƒŠ[ì¬
+å±•é–‹æ‰‹é †
+	ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆåˆ¥ãƒªãƒã‚¸ãƒˆãƒªãƒ¼ä½œæˆ
 
-	ƒvƒƒWƒFƒNƒg•ÊÝ’è
-		ƒvƒƒWƒFƒNƒg•ÊƒŠƒ|ƒWƒgƒŠ[ pull
+	ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆåˆ¥è¨­å®š
+		ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆåˆ¥ãƒªãƒã‚¸ãƒˆãƒªãƒ¼ pull
 
-		Dummy.txt(size 0) ‚ðì¬‚µ commit & push(ƒŠƒ|ƒWƒgƒŠŽÀ‘Ìì¬)
+		Dummy.txt(size 0) ã‚’ä½œæˆã— commit & push(ãƒªãƒã‚¸ãƒˆãƒªå®Ÿä½“ä½œæˆ)
 
-		ƒTƒuƒcƒŠ[‚ÉƒvƒƒWƒFƒNƒg•Êƒeƒ“ƒvƒŒ[ƒg(git@bitbucket.org:gloops-system/checkeventlog_project.git)’Ç‰Á(ƒ[ƒJƒ‹‘Š‘ÎƒpƒX: Project)
+		ã‚µãƒ–ãƒ„ãƒªãƒ¼ã«ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆåˆ¥ãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆ(git@bitbucket.org:gloops-system/checkeventlog_project.git)è¿½åŠ (ãƒ­ãƒ¼ã‚«ãƒ«ç›¸å¯¾ãƒ‘ã‚¹: Project)
 
-		Dummy.txt ‚ðíœ(ƒŠƒ|ƒWƒgƒŠŽÀ‘Ìì¬Œã•s—v‚È‚Ì‚Å)
+		Dummy.txt ã‚’å‰Šé™¤(ãƒªãƒã‚¸ãƒˆãƒªå®Ÿä½“ä½œæˆå¾Œä¸è¦ãªã®ã§)
 
-		Project\HostRole.csvXV
-			ƒCƒxƒ“ƒgƒƒOŠÄŽ‹‚ð‚·‚éƒT[ƒo[‚ð“o˜^
+		Project\HostRole.csvæ›´æ–°
+			ã‚¤ãƒ™ãƒ³ãƒˆãƒ­ã‚°ç›£è¦–ã‚’ã™ã‚‹ã‚µãƒ¼ãƒãƒ¼ã‚’ç™»éŒ²
 				HostName
-					ƒzƒXƒg–¼
+					ãƒ›ã‚¹ãƒˆå
 
 				IPAddress
-					Internal(–³‚¯‚ê‚Îƒƒ“ƒe)
+					Internal(ç„¡ã‘ã‚Œã°ãƒ¡ãƒ³ãƒ†)
 
 				CNAME
 					CNAME
 
 				Role
-					AP Server‚Í”CˆÓ•¶Žš—ñ
+					AP Serverã¯ä»»æ„æ–‡å­—åˆ—
 					TM
 					DB
-					ADDS(ƒhƒƒRƒ“)
-					Hyper-V(•êŠÍ)
+					ADDS(ãƒ‰ãƒ¡ã‚³ãƒ³)
+					Hyper-V(æ¯è‰¦)
 					FileServer
 
 				MailServer
-					Žg—p‚·‚éƒ[ƒ‹ƒT[ƒo[
+					ä½¿ç”¨ã™ã‚‹ãƒ¡ãƒ¼ãƒ«ã‚µãƒ¼ãƒãƒ¼
 
 				CheckAPLogName
-					“Á’è‚ÌƒAƒvƒŠƒP[ƒVƒ‡ƒ“ƒCƒxƒ“ƒgƒƒO‚ðŠÄŽ‹‚·‚éê‡‚ÉŽw’è‚·‚é
-					•¡”Žw’è‚·‚éê‡‚Í : ‚Å‹æØ‚é
+					ç‰¹å®šã®ã‚¢ãƒ—ãƒªã‚±ãƒ¼ã‚·ãƒ§ãƒ³ã‚¤ãƒ™ãƒ³ãƒˆãƒ­ã‚°ã‚’ç›£è¦–ã™ã‚‹å ´åˆã«æŒ‡å®šã™ã‚‹
+					è¤‡æ•°æŒ‡å®šã™ã‚‹å ´åˆã¯ : ã§åŒºåˆ‡ã‚‹
 
 					Hyper-V
 						Microsoft-Windows-Hyper-V-*
@@ -91,107 +91,107 @@
 						DFS Replication:Directory Service:DNS Server
 
 				IsAPServer
-					AP/ƒoƒbƒ`/ADMIN/TM‚Í "Y"
+					AP/ãƒãƒƒãƒ/ADMIN/TMã¯ "Y"
 
-		Project\ProjectConfig.ps1XV
-			ƒvƒƒWƒFƒNƒg–¼A
-			“WŠJæƒT[ƒo[Ž‘Šiî•ñ
-			‚»‚Ì‘¼•K—v‚É‰ž‚¶‚Ä
+		Project\ProjectConfig.ps1æ›´æ–°
+			ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆåã€
+			å±•é–‹å…ˆã‚µãƒ¼ãƒãƒ¼è³‡æ ¼æƒ…å ±
+			ãã®ä»–å¿…è¦ã«å¿œã˜ã¦
 
-		ƒvƒƒWƒFƒNƒg•ÊƒŠƒ|ƒWƒgƒŠ[ push
+		ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆåˆ¥ãƒªãƒã‚¸ãƒˆãƒªãƒ¼ push
 
-	TM ƒZƒbƒgƒAƒbƒv
-		ƒCƒ“ƒXƒg[ƒ‰[ƒZƒbƒgƒAƒbƒv
-			InitSetupTM.ps1 ‚ð TM ‚Ì”CˆÓêŠ‚ÉƒRƒs[‚µŽÀs
+	TM ã‚»ãƒƒãƒˆã‚¢ãƒƒãƒ—
+		ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ©ãƒ¼ã‚»ãƒƒãƒˆã‚¢ãƒƒãƒ—
+			InitSetupTM.ps1 ã‚’ TM ã®ä»»æ„å ´æ‰€ã«ã‚³ãƒ”ãƒ¼ã—å®Ÿè¡Œ
 
-		ƒXƒNƒŠƒvƒgƒZƒbƒgƒAƒbƒv
-			TM ‚Ì e:\CheckEventlog2\install\SetupTM.ps1 ‚ÉƒvƒƒWƒFƒNƒgƒŠƒ|ƒWƒgƒŠ[‚ðƒZƒbƒg‚µŽÀs
+		ã‚¹ã‚¯ãƒªãƒ—ãƒˆã‚»ãƒƒãƒˆã‚¢ãƒƒãƒ—
+			TM ã® e:\CheckEventlog2\install\SetupTM.ps1 ã«ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆãƒªãƒã‚¸ãƒˆãƒªãƒ¼ã‚’ã‚»ãƒƒãƒˆã—å®Ÿè¡Œ
 
-	ƒXƒNƒŠƒvƒg“WŠJ
-		e:\CheckEventlog2\install\Deploy.ps1 ŽÀs
+	ã‚¹ã‚¯ãƒªãƒ—ãƒˆå±•é–‹
+		e:\CheckEventlog2\install\Deploy.ps1 å®Ÿè¡Œ
 
-Ú×î•ñ
-	ƒtƒHƒ‹ƒ_[\¬
-		TM(“WŠJŒ³)
+è©³ç´°æƒ…å ±
+	ãƒ•ã‚©ãƒ«ãƒ€ãƒ¼æ§‹æˆ
+		TM(å±•é–‹å…ƒ)
 			E:\CheckEventlog2
-				.git : Git for Windows ŠÇ—ƒtƒHƒ‹ƒ_[(ƒvƒƒWƒFƒNƒgî•ñ)
-				.ssh : Git for Windows ŠÇ—ƒtƒHƒ‹ƒ_[(Œ®“™)
-				Core : ‹¤’ÊƒXƒNƒŠƒvƒg
-					.git : Git for Windows ŠÇ—ƒtƒHƒ‹ƒ_[(‹¤’ÊƒXƒNƒŠƒvƒg)
-				Project : ƒvƒƒWƒFƒNƒg•ÊÝ’è
-				Log : ƒCƒ“ƒXƒg[ƒ‹/ŽÀsƒƒO
-				Install : “WŠJ/‰^—pƒXƒNƒŠƒvƒg
-					.git : Git for Windows ŠÇ—ƒtƒHƒ‹ƒ_[(ƒCƒ“ƒXƒg[ƒ‰[ƒXƒNƒŠƒvƒg)
-				DeployFiles : “WŠJ—pƒtƒ@ƒCƒ‹
+				.git : Git for Windows ç®¡ç†ãƒ•ã‚©ãƒ«ãƒ€ãƒ¼(ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆæƒ…å ±)
+				.ssh : Git for Windows ç®¡ç†ãƒ•ã‚©ãƒ«ãƒ€ãƒ¼(éµç­‰)
+				Core : å…±é€šã‚¹ã‚¯ãƒªãƒ—ãƒˆ
+					.git : Git for Windows ç®¡ç†ãƒ•ã‚©ãƒ«ãƒ€ãƒ¼(å…±é€šã‚¹ã‚¯ãƒªãƒ—ãƒˆ)
+				Project : ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆåˆ¥è¨­å®š
+				Log : ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«/å®Ÿè¡Œãƒ­ã‚°
+				Install : å±•é–‹/é‹ç”¨ã‚¹ã‚¯ãƒªãƒ—ãƒˆ
+					.git : Git for Windows ç®¡ç†ãƒ•ã‚©ãƒ«ãƒ€ãƒ¼(ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ©ãƒ¼ã‚¹ã‚¯ãƒªãƒ—ãƒˆ)
+				DeployFiles : å±•é–‹ç”¨ãƒ•ã‚¡ã‚¤ãƒ«
 
-		ƒƒ“ƒo[(“WŠJæ)
-			ƒhƒ‰ƒCƒu:\CheckEventlog2
-				.git : Git for Windows ŠÇ—ƒtƒHƒ‹ƒ_[(ƒvƒƒWƒFƒNƒgî•ñ)
-				.ssh : Git for Windows ŠÇ—ƒtƒHƒ‹ƒ_[(Œ®“™)
-				Core : ‹¤’ÊƒXƒNƒŠƒvƒg
-					.git : Git for Windows ŠÇ—ƒtƒHƒ‹ƒ_[(‹¤’ÊƒXƒNƒŠƒvƒg)
-				Project : ƒvƒƒWƒFƒNƒg•ÊÝ’è
-				Log : ƒCƒ“ƒXƒg[ƒ‹/ŽÀsƒƒO
+		ãƒ¡ãƒ³ãƒãƒ¼(å±•é–‹å…ˆ)
+			ãƒ‰ãƒ©ã‚¤ãƒ–:\CheckEventlog2
+				.git : Git for Windows ç®¡ç†ãƒ•ã‚©ãƒ«ãƒ€ãƒ¼(ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆæƒ…å ±)
+				.ssh : Git for Windows ç®¡ç†ãƒ•ã‚©ãƒ«ãƒ€ãƒ¼(éµç­‰)
+				Core : å…±é€šã‚¹ã‚¯ãƒªãƒ—ãƒˆ
+					.git : Git for Windows ç®¡ç†ãƒ•ã‚©ãƒ«ãƒ€ãƒ¼(å…±é€šã‚¹ã‚¯ãƒªãƒ—ãƒˆ)
+				Project : ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆåˆ¥è¨­å®š
+				Log : ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«/å®Ÿè¡Œãƒ­ã‚°
 
-			AP : ƒhƒ‰ƒCƒu E: or D:(E:‚ª–³‚¢ê‡)
-			DBAADDSAHyper-V : C:
+			AP : ãƒ‰ãƒ©ã‚¤ãƒ– E: or D:(E:ãŒç„¡ã„å ´åˆ)
+			DBã€ADDSã€Hyper-V : C:
 
-	ƒtƒ@ƒCƒ‹/ƒXƒNƒŠƒvƒg\¬
-		.ssh : Git for Windows ŠÇ—ƒtƒHƒ‹ƒ_[(Œ®“™)
-			config : bitbucketÚ‘±î•ñ
-			id_rsa : bitbucketÚ‘±Œ®
-			known_hosts : bitbucketÚ‘±î•ñ(Git for Windows ‚ªŽ©“®¶¬)
+	ãƒ•ã‚¡ã‚¤ãƒ«/ã‚¹ã‚¯ãƒªãƒ—ãƒˆæ§‹æˆ
+		.ssh : Git for Windows ç®¡ç†ãƒ•ã‚©ãƒ«ãƒ€ãƒ¼(éµç­‰)
+			config : bitbucketæŽ¥ç¶šæƒ…å ±
+			id_rsa : bitbucketæŽ¥ç¶šéµ
+			known_hosts : bitbucketæŽ¥ç¶šæƒ…å ±(Git for Windows ãŒè‡ªå‹•ç”Ÿæˆ)
 
-		Core : ‹¤’ÊƒXƒNƒŠƒvƒg
-			CommonConfig.ps1 : ‹¤’ÊÝ’è
-			CheckEventLog.ps1 : ƒCƒxƒ“ƒgƒƒOŠÄŽ‹ƒXƒNƒŠƒvƒg
-			RemoveExecLog.ps1 : ŽÀsƒƒOíœƒXƒNƒŠƒvƒg
-			UpdateScript.ps1 : ƒXƒNƒŠƒvƒgŽ©“®XVƒXƒNƒŠƒvƒg
-			f_encrypt.ps1 : ŒöŠJŒ®•ûŽ®ƒnƒ“ƒhƒŠƒ“ƒOƒtƒ@ƒ“ƒNƒVƒ‡ƒ“
-			f_FomatXML.ps1 : XML ®Œ`ƒtƒ@ƒ“ƒNƒVƒ‡ƒ“
-			f_Log.ps1 : ƒƒOo—Íƒtƒ@ƒ“ƒNƒVƒ‡ƒ“
-			f_SendMail.ps1 : ƒ[ƒ‹‘—Mƒtƒ@ƒ“ƒNƒVƒ‡ƒ“
+		Core : å…±é€šã‚¹ã‚¯ãƒªãƒ—ãƒˆ
+			CommonConfig.ps1 : å…±é€šè¨­å®š
+			CheckEventLog.ps1 : ã‚¤ãƒ™ãƒ³ãƒˆãƒ­ã‚°ç›£è¦–ã‚¹ã‚¯ãƒªãƒ—ãƒˆ
+			RemoveExecLog.ps1 : å®Ÿè¡Œãƒ­ã‚°å‰Šé™¤ã‚¹ã‚¯ãƒªãƒ—ãƒˆ
+			UpdateScript.ps1 : ã‚¹ã‚¯ãƒªãƒ—ãƒˆè‡ªå‹•æ›´æ–°ã‚¹ã‚¯ãƒªãƒ—ãƒˆ
+			f_encrypt.ps1 : å…¬é–‹éµæ–¹å¼ãƒãƒ³ãƒ‰ãƒªãƒ³ã‚°ãƒ•ã‚¡ãƒ³ã‚¯ã‚·ãƒ§ãƒ³
+			f_FomatXML.ps1 : XML æ•´å½¢ãƒ•ã‚¡ãƒ³ã‚¯ã‚·ãƒ§ãƒ³
+			f_Log.ps1 : ãƒ­ã‚°å‡ºåŠ›ãƒ•ã‚¡ãƒ³ã‚¯ã‚·ãƒ§ãƒ³
+			f_SendMail.ps1 : ãƒ¡ãƒ¼ãƒ«é€ä¿¡ãƒ•ã‚¡ãƒ³ã‚¯ã‚·ãƒ§ãƒ³
 
-		Project : ƒvƒƒWƒFƒNƒg•ÊÝ’è
-			ProjectConfig.ps1 : ƒvƒƒWƒFƒNƒg•ÊÝ’è
-			HostRole.csv : ƒT[ƒo[\¬î•ñƒŠƒXƒg
-			NodeConfig.ps1 : ƒm[ƒhÝ’è(ƒCƒ“ƒXƒg[ƒ‰[‚ªŽ©“®¶¬)
-			NodeConfigORG.ps1 : ƒm[ƒhÝ’è‚ÌŒ³
+		Project : ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆåˆ¥è¨­å®š
+			ProjectConfig.ps1 : ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆåˆ¥è¨­å®š
+			HostRole.csv : ã‚µãƒ¼ãƒãƒ¼æ§‹æˆæƒ…å ±ãƒªã‚¹ãƒˆ
+			NodeConfig.ps1 : ãƒŽãƒ¼ãƒ‰è¨­å®š(ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ©ãƒ¼ãŒè‡ªå‹•ç”Ÿæˆ)
+			NodeConfigORG.ps1 : ãƒŽãƒ¼ãƒ‰è¨­å®šã®å…ƒ
 
-		Install : “WŠJ/‰^—pƒXƒNƒŠƒvƒg
-			InitSetupTM.ps1 : ‰ŠúƒZƒbƒgƒAƒbƒvƒXƒNƒŠƒvƒg(Git for Windows install & installer pull)
-			SetupTM.ps1 : “WŠJ—pTMƒZƒbƒgƒAƒbƒvƒXƒNƒŠƒvƒg(Core & Project pull)
-			Deploy.ps1 : “WŠJƒXƒNƒŠƒvƒg
-			DeployCore.ps1 : “WŠJƒXƒNƒŠƒvƒg(Invoke-Command‚³‚ê‚é‘¤)
-			StopSchdule.ps1 : ‘S‘äƒCƒxƒ“ƒgƒƒOŠÄŽ‹’âŽ~
-			StopCore.ps1 : ‘S‘äƒCƒxƒ“ƒgƒƒOŠÄŽ‹’âŽ~(Invoke-Command‚³‚ê‚é‘¤)
-			StartSchdule.ps1 : ‘S‘äƒCƒxƒ“ƒgƒƒOŠÄŽ‹ÄŠJ
-			StartCore.ps1 : ‘S‘äƒCƒxƒ“ƒgƒƒOŠÄŽ‹ÄŠJƒXƒNƒŠƒvƒg(Invoke-Command‚³‚ê‚é‘¤)
-			Remove.ps1 : ‘S‘äƒCƒxƒ“ƒgƒƒOíœ
-			RemoveCore.ps1 : ‘S‘äƒCƒxƒ“ƒgƒƒOíœ(Invoke-Command‚³‚ê‚é‘¤)
+		Install : å±•é–‹/é‹ç”¨ã‚¹ã‚¯ãƒªãƒ—ãƒˆ
+			InitSetupTM.ps1 : åˆæœŸã‚»ãƒƒãƒˆã‚¢ãƒƒãƒ—ã‚¹ã‚¯ãƒªãƒ—ãƒˆ(Git for Windows install & installer pull)
+			SetupTM.ps1 : å±•é–‹ç”¨TMã‚»ãƒƒãƒˆã‚¢ãƒƒãƒ—ã‚¹ã‚¯ãƒªãƒ—ãƒˆ(Core & Project pull)
+			Deploy.ps1 : å±•é–‹ã‚¹ã‚¯ãƒªãƒ—ãƒˆ
+			DeployCore.ps1 : å±•é–‹ã‚¹ã‚¯ãƒªãƒ—ãƒˆ(Invoke-Commandã•ã‚Œã‚‹å´)
+			StopSchdule.ps1 : å…¨å°ã‚¤ãƒ™ãƒ³ãƒˆãƒ­ã‚°ç›£è¦–åœæ­¢
+			StopCore.ps1 : å…¨å°ã‚¤ãƒ™ãƒ³ãƒˆãƒ­ã‚°ç›£è¦–åœæ­¢(Invoke-Commandã•ã‚Œã‚‹å´)
+			StartSchdule.ps1 : å…¨å°ã‚¤ãƒ™ãƒ³ãƒˆãƒ­ã‚°ç›£è¦–å†é–‹
+			StartCore.ps1 : å…¨å°ã‚¤ãƒ™ãƒ³ãƒˆãƒ­ã‚°ç›£è¦–å†é–‹ã‚¹ã‚¯ãƒªãƒ—ãƒˆ(Invoke-Commandã•ã‚Œã‚‹å´)
+			Remove.ps1 : å…¨å°ã‚¤ãƒ™ãƒ³ãƒˆãƒ­ã‚°å‰Šé™¤
+			RemoveCore.ps1 : å…¨å°ã‚¤ãƒ™ãƒ³ãƒˆãƒ­ã‚°å‰Šé™¤(Invoke-Commandã•ã‚Œã‚‹å´)
 
-		DeployFiles : “WŠJ—pƒtƒ@ƒCƒ‹
-			Git-1.9.4-preview20140929.exe : Git for Windows ƒCƒ“ƒXƒg[ƒ‰[
-			config : bitbucketÚ‘±î•ñ
-			id_rsa : bitbucketÚ‘±Œ®
+		DeployFiles : å±•é–‹ç”¨ãƒ•ã‚¡ã‚¤ãƒ«
+			Git-*.exe : Git for Windows ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ©ãƒ¼
+			config : bitbucketæŽ¥ç¶šæƒ…å ±
+			id_rsa : bitbucketæŽ¥ç¶šéµ
 
-	ƒŠƒ|ƒWƒgƒŠ[
-		‹¤’ÊƒXƒNƒŠƒvƒg
+	ãƒªãƒã‚¸ãƒˆãƒªãƒ¼
+		å…±é€šã‚¹ã‚¯ãƒªãƒ—ãƒˆ
 			git@bitbucket.org:gloops-system/checkeventlog_core.git
 			https://bitbucket.org/gloops-system/checkeventlog_core
 
-		ƒvƒƒWƒFƒNƒg•Êƒeƒ“ƒvƒŒ[ƒg
+		ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆåˆ¥ãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆ
 			git@bitbucket.org:gloops-system/checkeventlog_project.git
 			https://bitbucket.org/gloops-system/checkeventlog_project
 
-		ƒCƒ“ƒXƒg[ƒ‰[
+		ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ©ãƒ¼
 			git@bitbucket.org:gloops-system/checkeventlog_install.git
 			https://bitbucket.org/gloops-system/checkeventlog_install
 
-		ƒvƒƒWƒFƒNƒg•ÊÝ’è
-			git@bitbucket.org:gloops-system/checkeventlog_ƒvƒƒWƒFƒNƒg–¼.git
+		ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆåˆ¥è¨­å®š
+			git@bitbucket.org:gloops-system/checkeventlog_ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆå.git
 
 		Permissions
-			team infrastracture : ‘‚«ž‚Ý
-			infraagent: “Ç‚ÝŽæ‚è(ƒXƒNƒŠƒvƒgŽÀsƒAƒJƒEƒ“ƒg)
+			team infrastracture : æ›¸ãè¾¼ã¿
+			infraagent: èª­ã¿å–ã‚Š(ã‚¹ã‚¯ãƒªãƒ—ãƒˆå®Ÿè¡Œã‚¢ã‚«ã‚¦ãƒ³ãƒˆ)
 
